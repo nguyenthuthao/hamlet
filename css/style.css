@@ -8811,7 +8811,7 @@ h1, h2, h3, h4, h5,
     margin-bottom: -3em; } }
 
 .about-div {
-  background: #2f3035;
+  background: rgba(104, 106, 115, 0.6);
   padding: 3em 2.5em; }
   .about-div h4 {
     font-size: 20px;
